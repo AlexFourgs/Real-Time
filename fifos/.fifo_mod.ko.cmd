@@ -1,0 +1,1 @@
+cmd_/home/rtai_user/Documents/alexf/rt/fifos/fifo_mod.ko := ld -r -m elf_x86_64 -T /usr/src/linux-3.5.7/scripts/module-common.lds --build-id  -o /home/rtai_user/Documents/alexf/rt/fifos/fifo_mod.ko /home/rtai_user/Documents/alexf/rt/fifos/fifo_mod.o /home/rtai_user/Documents/alexf/rt/fifos/fifo_mod.mod.o
